@@ -1,0 +1,16 @@
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net5.0\EcommerceApplication.exe
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net5.0\EcommerceApplication.deps.json
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net5.0\EcommerceApplication.runtimeconfig.json
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net5.0\EcommerceApplication.runtimeconfig.dev.json
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net5.0\EcommerceApplication.dll
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net5.0\ref\EcommerceApplication.dll
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net5.0\EcommerceApplication.pdb
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net5.0\EcommerceApplication.csproj.AssemblyReference.cache
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net5.0\EcommerceApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net5.0\EcommerceApplication.AssemblyInfoInputs.cache
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net5.0\EcommerceApplication.AssemblyInfo.cs
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net5.0\EcommerceApplication.csproj.CoreCompileInputs.cache
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net5.0\EcommerceApplication.dll
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net5.0\ref\EcommerceApplication.dll
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net5.0\EcommerceApplication.pdb
+C:\Users\AshikhaMylsamy\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net5.0\EcommerceApplication.genruntimeconfig.cache
